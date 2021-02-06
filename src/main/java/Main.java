@@ -84,23 +84,6 @@ public class Main {
     }
 
 
-//    public static void main(String[] args) {
-//        Integer[] input = {3, 2, 3, 4, 5, 6, 30, 3, 7, 8};
-//        System.out.println(getFirstGivenIntegerIndex(3, input));
-//        System.out.println(getFirstGivenIntegerIndex(2, input));
-//        System.out.println(getFirstGivenIntegerIndex(11, input));
-//
-//        System.out.println(reverse("abcdef"));
-//
-//        System.out.println(maximum(input));
-//
-//        var ints = List.of(10, 10, 10, 50);
-//        System.out.println(average(ints));
-//
-//        var words = List.of("average", "abb", "amo", "test", "angular", "time", "power");
-//        System.out.println(search(words).size());
-//        search(words).forEach(System.out::println);
-//    }
 
 
 }
